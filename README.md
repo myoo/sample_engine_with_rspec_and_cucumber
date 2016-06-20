@@ -1,6 +1,6 @@
 # sample_engine_with_rspec_and_cucumber
 
-This is a simply engine that has RSpec and Cucumber integrated for testing.  It was created as a companion for the articles [How to Setup RSpec in a Rails Engine](http://corlewsolutions.com/articles/article-126-how-to-setup-rspec-in-a-rails-engine) and [How to Setup Cucumber in a Rails Engine](http://corlewsolutions.com/admin/articles/article-127-how-to-setup-cucumber-in-a-rails-engine).  Please see the articles for step by step instructions on how RSpec and Cucumber were added.
+This is a simply engine that has RSpec and Cucumber integrated for testing.  It was created as a companion for the articles [How to Setup RSpec in a Rails Engine](http://corlewsolutions.com/articles/article-126-how-to-setup-rspec-in-a-rails-engine) and [How to Setup Cucumber in a Rails Engine](http://corlewsolutions.com/articles/article-127-how-to-setup-cucumber-in-a-rails-engine).  Please see the articles for step by step instructions on how RSpec and Cucumber were added.
 
 ## Usage
 
