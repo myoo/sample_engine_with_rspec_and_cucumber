@@ -13,3 +13,4 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
+gem "cucumber-rails", "~> 1.4.3", require: false, group: :test
